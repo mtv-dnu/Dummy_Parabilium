@@ -1,0 +1,6 @@
+[submodule "Dummy_WS"]
+	path = Dummy_WS
+	url = https://github.com/mtv-dnu/Dummy_WS/
+[submodule "Dummy_CA"]
+	path = Dummy_CA
+	url = https://github.com/mtv-dnu/Dummy_CA/
